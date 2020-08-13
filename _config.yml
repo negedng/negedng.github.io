@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gergely Nemeth"
 title_separator          : "-"
-name                     : &name "Gergely Nemeth"
+name                     : &name "Gergely Dániel Németh"
 description              : &description "Machine Learning Engineer"
 url                      : https://negedng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
