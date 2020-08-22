@@ -3,7 +3,7 @@ title: "Hyphenation using deep neural networks"
 collection: publications
 permalink: /publication/2018-Hyphenation
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-01
+date: 2018-01-18
 venue: 'XIV. Magyar Számítógépes Nyelvészeti Konferencia'
 paperurl: 'http://academicpages.github.io/files/2018-Hyphenation.pdf'
 citation: 'Németh, GD., Ács, J. (2018). &quot;Hyphenation using deep neural networks&quot; <i>XIV. Magyar Számítógépes Nyelvészeti Konferencia</i>'
