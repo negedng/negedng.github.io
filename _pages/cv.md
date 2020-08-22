@@ -11,8 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science Engineering, Budapest Univesity of Technology and Economics, 2018
-* M.S. in Advanced Computer Science: Artificial Intelligence, The University of Manchester, 2019
+* M.S. in Advanced Computer Science: Artificial Intelligence, The University of Manchester
+  * Date: Sept 2019
+  * Thesis: Arguing with BERT: Argumentation Mining using contextualised embedding and transformers
+  * Supervisor: André Freitas
+* B.S. in Computer Science Engineering, Budapest Univesity of Technology and Economics
+  * Date: Jan 2018
+  * Thesis: Multilingual hyphenation using deep neural networks
+  * Supervisor: Judit Ács
 
 Work experience
 ======
