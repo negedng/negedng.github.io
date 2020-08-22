@@ -2,7 +2,6 @@
 title: "Hyphenation using deep neural networks"
 collection: publications
 permalink: /publication/2018-Hyphenation
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-01-18
 venue: 'XIV. Magyar Számítógépes Nyelvészeti Konferencia'
 paperurl: 'http://negedng.github.io/files/2018-Hyphenation.pdf'
