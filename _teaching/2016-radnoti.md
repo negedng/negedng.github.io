@@ -1,5 +1,5 @@
 ---
-title: "Basic of programming"
+title: "Basics of programming"
 collection: teaching
 type: "High school course"
 permalink: /teaching/2016-radnoti
