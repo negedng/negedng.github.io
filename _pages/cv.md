@@ -11,30 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science Engineering, Budapest Univesity of Technology and Economics, 2018
+* M.S. in Advanced Computer Science: Artificial Intelligence, The University of Manchester, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2019 - Present: Machine Learning Engineer
+  * Asura Technologies Ltd.
+  * Building state of the art Computer Vision and Natural Language Processing applications focusing on traffic related problems.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar 2018 - Jun 2019: Game Developer
+  * Bellum Games Ltd.
+  * Game Developer of the Stellae online strategy game.
+
+* Jan 2017 - Sept 2018: Head of Education
+  * Open University for High Schoolers
+  * Organizing lectures and managing speekers for the summer camp.
+
+* Sept 2017 - Jan 2018: Teacher
+  * Fazekas Mihály High School
+  * Teaching advanced level programming for high schoolers with Morgan Stanley Scholarship.
+
+* Sept 2016 - Jan 2018: Undergreaduate Teaching Assistant
+  * Budapest University of Technology and Economics
+  * Teaching assistant at the Department of Computer Science and Information Theory
+
+* Jun 2017 - Aug 2017: Student Intern
+  * Aitia International Inc.
+  * Web Developer at the Speech Technology division
+
+* Sep 2016 -Jun 2017: Teacher
+  * ELTE Radnóti Miklós High School
+  * Teaching programming to High School students
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Experience:
+  * Proficient: Python, C#, Java, C, C++
+  * Familiar with: .Net, PHP, JavaScript
+* Machine Learning experience with TensorFlow and Keras
+* Version control with Git
+* Web content development (WordPress, PHP, Java)
+* Game Development:
+  * Unity
+  * Nintendo Switch
+  * Android
+* Leadership experience:
+  * Project management
+  * Event organization
+* Teaching
 
 Publications
 ======
@@ -54,6 +79,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer experience
 ======
-* Currently signed in to 43 different slack teams
+* Sept 2014 - Present: Organizer
+  * Open University for High Schoolers
