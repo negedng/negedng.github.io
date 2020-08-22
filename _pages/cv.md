@@ -13,12 +13,12 @@ Education
 ======
 * M.S. in Advanced Computer Science: Artificial Intelligence, The University of Manchester
   * Date: Sept 2019
-  * Thesis: Arguing with BERT: Argumentation Mining using contextualised embedding and transformers
-  * Supervisor: André Freitas
+  * Thesis: [Arguing with BERT: Argumentation Mining using contextualised embedding and transformers](http://negedng.github.io/files/MSc_thesis.pdf)
+  * Supervisor: [André Freitas](http://andrefreitas.org/)
 * B.S. in Computer Science Engineering, Budapest Univesity of Technology and Economics
   * Date: Jan 2018
-  * Thesis: Multilingual hyphenation using deep neural networks
-  * Supervisor: Judit Ács
+  * Thesis: [Multilingual hyphenation using deep neural networks](http://negedng.github.io/files/BSc_thesis.pdf)
+  * Supervisor: [Judit Ács](https://hlt.bme.hu/en/judit)
 
 Work experience
 ======
