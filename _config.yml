@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gergely Nemeth"
+title                    : "Gergely D Nemeth"
 title_separator          : "-"
 name                     : &name "Gergely Dániel Németh"
 description              : &description "Machine Learning Engineer"
