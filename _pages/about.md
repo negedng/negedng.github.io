@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Gergely Dániel Németh is a Machine Learning Engineer.
+Gergely Dániel Németh is a PhD student in Artificial Intelligence at the ELLIS Unit Alicante. His PhD topics are AI Ethics and Federated Learning. His supervisors are Nuria Oliver (ELLIS Alicante), Miguel Angel Lozano (University of Alicante) and Novi Quadrianto (University of Sussex).
 He holds a MSc degree in Advanced Computer Science from The University of Manchester and a BSc in Computer Science Engineering from Budapest University of Technology and Economics.
-He is actively looking for a PhD in Artificial Intelligence.
-In the maintime, he works as a Machine Learning Engineer and publish blog post in Towards Data Science about various projects related to the field.
 # Machine Learning Projects
 ## University projects
 ### Hyphenation using deep neural network

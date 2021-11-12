@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+* PhD in Computer Science, ELLIS Unit Alicante, University of Alicante
+  * Date: Nov 2021 - Present
+  * Thesis: AI Fairness in Federated Learning
+  * Supervisors [Nuria Oliver](https://www.nuriaoliver.com/),[Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), [Miguel Angel Lozano](https://sites.google.com/site/malozanohomepage/)
 * M.S. in Advanced Computer Science: Artificial Intelligence, The University of Manchester
   * Date: Sept 2018 - Sept 2019
   * Thesis: [Arguing with BERT: Argumentation Mining using contextualised embedding and transformers](http://negedng.github.io/files/MSc_thesis.pdf)
@@ -22,7 +26,7 @@ Education
 
 Work experience
 ======
-* Nov 2019 - Present: Machine Learning Engineer
+* Nov 2019 - Aug 2021: Machine Learning Engineer
   * Asura Technologies Ltd.
   * Building state of the art Computer Vision and Natural Language Processing applications focusing on traffic related problems.
 
