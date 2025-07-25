@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, ELLIS Unit Alicante, University of Alicante
-  * Date: Nov 2021 - Present
-  * Thesis: AI Fairness in Federated Learning
-  * Supervisors [Nuria Oliver](https://www.nuriaoliver.com/),[Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), [Miguel Angel Lozano](https://sites.google.com/site/malozanohomepage/)
+* PhD in Computer Science, ELLIS Unit Alicante, University of Alicante, University of Sussex
+  * Date: Nov 2021 - Sept 2025
+  * Thesis: Relaxing Core Assumptions: the Impact of Data, Model and Participation Heterogeneity on Performance, Privacy and Fairness in Federated Learning
+  * Supervisors [Nuria Oliver](https://www.nuriaoliver.com/), [Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), [Miguel Angel Lozano](https://sites.google.com/site/malozanohomepage/)
 * M.S. in Advanced Computer Science: Artificial Intelligence, The University of Manchester
   * Date: Sept 2018 - Sept 2019
-  * Thesis: [Arguing with BERT: Argumentation Mining using contextualised embedding and transformers](http://negedng.github.io/files/MSc_thesis.pdf)
+  * Thesis: [Arguing with BERT: Argumentation Mining using contextualised embedding and transformers](/files/MSc_thesis.pdf)
   * Supervisor: [André Freitas](http://andrefreitas.org/)
 * B.S. in Computer Science Engineering, Budapest Univesity of Technology and Economics
   * Date: Sept 2014 - Jan 2018
-  * Thesis: [Multilingual hyphenation using deep neural networks](http://negedng.github.io/files/BSc_thesis.pdf)
+  * Thesis: [Multilingual hyphenation using deep neural networks](/files/BSc_thesis.pdf)
   * Supervisor: [Judit Ács](https://hlt.bme.hu/en/judit)
 
 Work experience
@@ -91,5 +91,5 @@ Teaching
   
 Volunteer experience
 ======
-* Sept 2014 - Present: Organizer
+* Sept 2014 - Aug 2021: Organizer
   * Open University for High Schoolers

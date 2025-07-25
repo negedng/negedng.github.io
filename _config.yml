@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gergely Dániel Németh"
   avatar           : "profile.png"
-  bio              : "PhD student at the ELLIS Unit Alicante. Working on AI Fairness in Federated Learning."
+  bio              : "PhD candidate at the ELLIS Unit Alicante. Working on Federated Learning."
   location         : "Alicante, Spain"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,9 +102,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gergely-nemeth-092b10137/"
+  linkedin         : "negedng"
   medium           : "https://medium.com/@neged.ng"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-9737-6519"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

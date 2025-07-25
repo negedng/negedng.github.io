@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-* Email: neged.ng [at] gmail.com
+* Email: gergely.daniel.nemeth [at] gmail.com
