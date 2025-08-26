@@ -13,7 +13,7 @@ Education
 ======
 * PhD in Computer Science, ELLIS Unit Alicante, University of Alicante, University of Sussex
   * Date: Nov 2021 - Sept 2025
-  * Thesis: Relaxing Core Assumptions: the Impact of Data, Model and Participation Heterogeneity on Performance, Privacy and Fairness in Federated Learning
+  * Thesis: [Relaxing Core Assumptions: the Impact of Data, Model and Participation Heterogeneity on Performance, Privacy and Fairness in Federated Learning](/files/PhD_thesis.pdf)
   * Supervisors [Nuria Oliver](https://www.nuriaoliver.com/), [Novi Quadrianto](https://profiles.sussex.ac.uk/p335583-novi-quadrianto), [Miguel Angel Lozano](https://sites.google.com/site/malozanohomepage/)
 * M.S. in Advanced Computer Science: Artificial Intelligence, The University of Manchester
   * Date: Sept 2018 - Sept 2019
