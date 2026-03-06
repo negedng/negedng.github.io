@@ -5,6 +5,8 @@ title: "Android Apps"
 
 ## FindTheBeat
 
+<img src="/images/findthebeat/icon_512x512.png" alt="FindTheBeat icon" style="width: 100px; border-radius: 20px; float: left; margin-right: 16px; margin-bottom: 8px;">
+
 FindTheBeat is an Android app that listens to music through the device microphone and detects the tempo and beat in real time, using a custom-built DSP pipeline with no external signal processing libraries. It supports five dance genres -- Waltz, Cha-Cha, Merengue, Bachata, and Salsa -- and suggests contextually appropriate moves from a database of over 130 verified dance steps, organized by difficulty and matched to the energy of the music. The app plays an audible click track synchronized to the beat, supports three languages (English, Spanish, Hungarian) with light and dark themes, and performs all processing entirely on-device with no internet connection required.
 
 **Features:**
