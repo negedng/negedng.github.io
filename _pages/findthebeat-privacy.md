@@ -3,6 +3,8 @@ permalink: /findthebeat/privacy/
 title: "FindTheBeat - Privacy Policy"
 ---
 
+[Back to FindTheBeat](/apps/)
+
 **Last updated: March 6, 2026**
 
 ## Overview
