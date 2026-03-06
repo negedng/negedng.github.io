@@ -17,6 +17,13 @@ FindTheBeat is an Android app that listens to music through the device microphon
 - Light/Dark theme, available in English, Spanish, and Hungarian
 - Works offline -- all processing on-device
 
+**Screenshots:**
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <img src="/images/findthebeat/screenshot_beat_detection.png" alt="FindTheBeat - Real-time beat detection" style="width: 250px; border-radius: 8px;">
+  <img src="/images/findthebeat/screenshot_move_selection.png" alt="FindTheBeat - Dance move selection" style="width: 250px; border-radius: 8px;">
+</div>
+
 **Links:**
 - [Privacy Policy](/findthebeat/privacy/)
 - Google Play -- *coming soon*
