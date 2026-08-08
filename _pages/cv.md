@@ -26,6 +26,10 @@ Education
 
 Work experience
 ======
+* Nov 2025 - : Artificial Intelligence Engineer
+  * Realogic Ltd.
+  * Applying LLMs to improve the company's development workflow and the product's user experience.
+
 * Nov 2019 - Aug 2021: Machine Learning Engineer
   * Asura Technologies Ltd.
   * Building state of the art Computer Vision and Natural Language Processing applications focusing on traffic related problems.
@@ -53,13 +57,14 @@ Work experience
 * Sep 2016 -Jun 2017: Teacher
   * ELTE Radnóti Miklós High School
   * Teaching programming to High School students
-  
+
 Skills
 ======
 * Programming Experience:
   * Proficient: Python, C#, Java, C, C++
-  * Familiar with: .Net, PHP, JavaScript
-* Machine Learning experience with TensorFlow and Keras
+  * Familiar with: .Net, PHP, JavaScript, TypeScript
+* Machine Learning experience with TensorFlow, PyTorch and Keras
+* LLMs with LangChain, Ollama, OpenAI, Claude, MCP development
 * Version control with Git
 * Web content development (WordPress, PHP, Java)
 * Game Development:
@@ -76,19 +81,19 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Volunteer experience
 ======
 * Sept 2014 - Aug 2021: Organizer
