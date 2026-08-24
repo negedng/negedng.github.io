@@ -28,4 +28,5 @@ FindTheBeat is an Android app that listens to music through the device microphon
 
 **Links:**
 - [Privacy Policy](/findthebeat/privacy/)
-- Google Play -- *coming soon*
+
+<a href="https://play.google.com/store/apps/details?id=eu.neged.findthebeat"><img src="/images/google-play-badge.png" alt="Get it on Google Play" style="width: 200px; max-width: 100%;"></a>
