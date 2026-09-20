@@ -30,7 +30,9 @@ FindTheBeat displays ads provided by Google AdMob. The AdMob SDK may collect cer
 
 For details, see [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 
-You can opt out of personalized ads in your device's settings under **Google > Ads**.
+If you are in the European Economic Area, the United Kingdom or Switzerland, the app asks for your consent before it shows ads. You can change or withdraw that choice at any time in the app under **Settings > Privacy Options**.
+
+You can also opt out of personalized ads in your device's settings under **Google > Ads**.
 
 ## Data Collection
 
