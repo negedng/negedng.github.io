@@ -5,7 +5,7 @@ title: "FindTheBeat - Privacy Policy"
 
 [Back to FindTheBeat](/apps/)
 
-**Last updated: March 6, 2026**
+**Last updated: September 20, 2026**
 
 ## Overview
 
@@ -28,6 +28,8 @@ FindTheBeat displays ads provided by Google AdMob. The AdMob SDK may collect cer
 - Ad interaction data
 - General location (IP-based)
 
+For details, see [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
+
 You can opt out of personalized ads in your device's settings under **Google > Ads**.
 
 ## Data Collection
@@ -36,7 +38,7 @@ FindTheBeat itself does **not** collect, store, or share any personal data. The 
 
 ## Third-Party Services
 
-- **Google AdMob**: Used for displaying advertisements. See [Google's Privacy Policy](https://policies.google.com/privacy).
+- **Google AdMob**: Used for displaying advertisements. See [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites).
 - **Google Play Services**: Required for ad delivery.
 
 ## Children's Privacy
